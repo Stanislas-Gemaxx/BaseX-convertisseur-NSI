@@ -50,7 +50,7 @@ function conversion()
             let input_correcte=true   
             for (let caractere of hexadecimal.value)
                 {
-                if (caractere!="0" && caractere!="1" && caractere!="2" && caractere!="3" && caractere!="4" && caractere!="5" && caractere!="6" && caractere!="7" && caractere!="8" && caractere!="9" && caractere!="a" && caractere!="b" && caractere!="c" && caractere!="d" && caractere!="e" && caractere!="f" && caractere!="g" && caractere!="A" && caractere!="B" && caractere!="C" && caractere!="D" && caractere!="E" && caractere!="F" && caractere!="G")
+                if (caractere!="0" && caractere!="1" && caractere!="2" && caractere!="3" && caractere!="4" && caractere!="5" && caractere!="6" && caractere!="7" && caractere!="8" && caractere!="9" && caractere!="a" && caractere!="b" && caractere!="c" && caractere!="d" && caractere!="e" && caractere!="f" && caractere!="A" && caractere!="B" && caractere!="C" && caractere!="D" && caractere!="E" && caractere!="F")
                     {
                     setCSSvar("--erreur_caractere", "visible")
                     input_correcte=false
