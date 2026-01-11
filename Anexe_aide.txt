@@ -262,4 +262,4 @@ Type de projet : Site web en HTML, CSS et JavaScript
 
 
 
-pour mettre ajour le site faire dans le terminal "git add ." puis "git commit -m "derneire mise a jour""
+pour mettre ajour le site faire dans le terminal "git add ." puis "git commit -m "derneire mise a jour"" puis "git push -u origin main"
