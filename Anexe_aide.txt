@@ -253,3 +253,13 @@ Type de projet : Site web en HTML, CSS et JavaScript
         •Cours de NSI de M. PERMINJAT
         •Cours de SNT de Mme. CHASSAGNE
 
+
+
+
+
+
+
+
+
+
+pour mettre ajour le site faire dans le terminal "git add ." puis "git commit -m "derneire mise a jour""
